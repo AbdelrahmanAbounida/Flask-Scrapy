@@ -8,6 +8,6 @@ if __name__ == '__main__':
    else:
       print("sauces.db already exists")
 
-   app.debug = True
+   app.debug = False
    app.run()
 
